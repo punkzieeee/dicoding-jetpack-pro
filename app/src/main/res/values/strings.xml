@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="title_activity_movie_detail">Details</string>
+    <string name="movie">Movie</string>
+    <string name="tvshow">TV Show</string>
+    <string name="title">Title</string>
+    <string name="rating">Rating</string>
+    <string name="date_released">mm/dd/yyyy</string>
+    <string name="genre">Genre</string>
+    <string name="score">100</string>
+    <string name="season">0</string>
+    <string name="tagline">Tagline</string>
+    <string name="overview_title">Overview</string>
+    <string name="overview">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet nibh ut tortor fermentum feugiat a nec lectus. Aliquam erat volutpat. Nunc non augue at turpis elementum tempor. Cras consectetur eu metus quis efficitur. Curabitur et bibendum risus, quis lobortis sapien. Aenean pretium ex vitae semper mollis. Nam aliquet nulla ut euismod faucibus. Suspendisse sit amet dolor odio. Aliquam erat purus, fringilla ac pharetra eu, pharetra ac augue. Mauris faucibus, justo a sagittis molestie, est nisi gravida magna, sit amet accumsan sem nisi a diam. Vivamus eget ante semper, aliquet nunc at, gravida est. Nullam aliquam fringilla consequat. Aenean nisi justo, ornare eget iaculis vitae, condimentum non lacus. Proin lobortis ullamcorper tortor. </string>
+    <string name="message_undo">Batalkan menghapus item sebelumnya?</string>
+    <string name="message_ok">OK</string>
+</resources>
